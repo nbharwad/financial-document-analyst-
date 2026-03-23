@@ -80,6 +80,4 @@ financial-document-analyst/
 └── requirements.txt
 ```
 
-## License
-
-MIT
+## Quick Start
